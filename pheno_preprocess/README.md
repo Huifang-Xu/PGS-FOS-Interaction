@@ -1,5 +1,5 @@
 # The folder contains scripts to preprocess phenotype data
-pheno_processing.discovery.r: phenotype QC of discovery cohorts
+pheno_processing.discovery.r: phenotype QC of discovery cohort
 
 impute_mice_pheno.R: impute missing covariates, e.g., alcohol status, smoking, physical activity.
 
