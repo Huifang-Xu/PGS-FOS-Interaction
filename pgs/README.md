@@ -1,4 +1,4 @@
-#This folder contains scripts to calculate polygenic scores (PGS) of circulating omega-3 fatty acids
+# This folder contains scripts to calculate polygenic scores (PGS) of circulating omega-3 fatty acids
 
 
 step0.extract_geno.sh: extraction and QC of UKB genotyping data 
