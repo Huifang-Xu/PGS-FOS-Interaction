@@ -33,5 +33,5 @@
 **Supplementary Table 13**. Association of PGS with the observed circulating concentrations of omega-3 fatty acids stratified by dietary status in CSA participants	\
 **Supplementary Table 14**. Association of FOS, PGS and PGS-by-FOS with the observed circulating concentrations of omega-3 fatty acids in EUR participants (sensitivity analysis)	\
 **Supplementary Table 15**. Association of FOS and the observed RINT-based circulating concentrations of omega-3 fatty acids stratified by PGS groups in EUR participants (all phases) using a 24-hour dietary recall questionnaire (sensitivity analysis)	\
-**Supplementary Table 16**. Association of PGS with the observed circulating concentrations of omega-3 fatty acids stratified by FOS status in EUR participants (sensitivity analysis)	\
+**Supplementary Table 16**. Association of PGS with the observed circulating concentrations of omega-3 fatty acids stratified by FOS status in EUR participants (sensitivity analysis)	
  
